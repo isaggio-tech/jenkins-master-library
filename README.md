@@ -12,7 +12,7 @@ Demonstrates how to use a Shared Library in Jenkins pipelines. This repository d
     - Default version: Specify a Git reference (branch or commit SHA), e.g. `master`
     - Retrieval method: _Modern SCM_
     - Select the _Git_ type
-    - Project repository: `https://github.com/monodot/pipeline-library-demo.git`
+    - Project repository: `https://github.com/isaggio-tech/jenkins-master-library.git`
     - Credentials: (leave blank)
     
     OR using JCasC,
